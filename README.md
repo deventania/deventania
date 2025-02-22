@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vítor Ventania
 - 👀 I’m interested in systems development
-- 🌱 I’m currently learning Java with Spring
+- 🌱 I’m currently learning Full Stack React js Development with Node js
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me https://www.linkedin.com/in/vitor-ventania-ti
 - ⚡ Fun fact: I love numbers
